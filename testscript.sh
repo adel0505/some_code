@@ -4,5 +4,4 @@ NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "This was added"
 echo "adel abidi test commit1"
-echo "adel abidi test commit2"
 
